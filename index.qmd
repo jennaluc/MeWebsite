@@ -1,7 +1,44 @@
 ---
-title: "dis me website"
+title: "dis me website!"
+theme: quartz
 ---
 
-This is a Quarto website.
+![Me in La Jolla, CA!](Me.png)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+## About me :=)
+
+### Background
+My name is Jenna Kim Luc. I was born in Virginia, where I formed core memories of jumping in piles of leaves in the fall and making snow angels in the winter. My family then moved to Southern California where I was raised and attended all of my schooling. With my parents, sister, and pets, I grew up camping, fishing, shopping, and eating in SoCal (arguably the best place in the US). I am now in the beautiful state of Hawaiʻi for the final boss level of school: PhD. 
+
+### Five Fun Facts (about me)
+
+1. I am half Korean and half Vietnamese. With my parents and food being my strongest cultural ties. 
+2. Spanish is second best language I know (behind English). 
+3. I am in my 19th year of school. I have my bachelor's and master's degrees, and am now working toward my doctorate in microbiology.
+4. I prefer matcha over coffee, but seek energy drinks for necessary bouts of caffeine. 
+5. I am a foodie. I love everything about food - sharing a meal, trying new recipes, experiencing nostalgia through food, all of the above.
+
+::: {layout-ncol=2}
+![Oatmilk matcha with strawberry ...yum!](macha.JPG)
+
+![Garlic herb rolls :D](bred.JPG)
+:::
+
+### Education
+
+- [X] Bachelor of Science in Biology, University of California - Riverside
+- [X] Master of Science in Microbiology, San Diego State University
+- [ ] Doctor of Philosophy in Microbiology, University of Hawaiʻi at Mānoa
+
+### Research interest
+I have always been fascinated about how 'little guys' that we can't even see have such a profound impact on everything around us. Dutch microbiologist, Baas Becking, came up with a hypothesis that has stuck with me: 
+**"Everything is everywhere, but the environment selects."**
+
+
+### What I hope to learn
+From this course, I hope to gain confidence in coding and learn to make nice, publication-worthy figures. In school, I hope to learn how to do good science. 
+
+### Link to a cool website 
+##### <https://theloopywhisk.com>
+This website holds baking recipes written by an inorganic chemist PhD holder, Katarina Cermelj. These recipes can be customized to be gluten free, dairy free, egg free, vegan, and / or gluten free-vegan! As someone that has dietary restrictions and allergies, The Loopy Whisk recipes allow me to bake fun treats without compromising my health too much. 
