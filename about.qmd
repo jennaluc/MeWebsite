@@ -1,5 +1,6 @@
 ---
-title: "About"
+title: "Other stuff!"
 ---
 
-About this site
+![ ](stars.jpg)
+To be filled with other fun content. :=)

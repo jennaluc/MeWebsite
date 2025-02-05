@@ -35,9 +35,12 @@ My name is Jenna Kim Luc. I was born in Virginia, where I formed core memories o
 I have always been fascinated about how 'little guys' that we can't even see have such a profound impact on everything around us. Dutch microbiologist, Baas Becking, came up with a hypothesis that has stuck with me: 
 **"Everything is everywhere, but the environment selects."**
 
+For my Master's thesis work, in the laboratory of Dr. Catherine Schrankel, I explored the microbial origins of black spot disease in sea urchin *Lytechinus pictus*. 
+
+Now in my PhD, I am interested in host-pathogen interactions, particularly with the pathogens *Mycobacterium tuberculosis* and *Mycobacterium marinum*. In the lab of Dr. Sladjana Prišić, I am investigating *M. marinum* infection to zebrafish (*Danio rerio*) to further understand mycobacterial virulence.  
 
 ### What I hope to learn
-From this course, I hope to gain confidence in coding and learn to make nice, publication-worthy figures. In school, I hope to learn how to do good science. 
+From this course, I hope to gain confidence in coding and learn to make nice, publication-worthy figures. In school, I hope to learn about and how to do **good science**.
 
 ### Link to a cool website 
 ##### <https://theloopywhisk.com>
